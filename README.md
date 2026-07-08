@@ -7,7 +7,7 @@ Our mission is to ensure that every Vasavi speaker can engage with the Word of G
 
 ---
 
-<!-- ## 🎧 Listen Live on GitHub Pages
+## 🎧 Listen Live on GitHub Pages
 
 If you are looking to stream or listen to the audio files directly from your web browser or mobile application, please visit our live web application player:
 
@@ -15,7 +15,7 @@ If you are looking to stream or listen to the audio files directly from your web
 
 *The web player features an interactive, mobile-friendly interface designed for easy navigation through books, chapters, and verses.*
 
---- -->
+---
 
 ## 📂 Project Structure & Audio Repository
 
