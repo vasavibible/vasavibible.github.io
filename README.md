@@ -92,18 +92,3 @@ This audio scripture data is shared to promote spiritual and linguistic preserva
 
 *Built with ❤️ for the Vasavi community.*
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(content)
-
-```
-Your Markdown file is ready for download.
-
-[file-tag: code-generated-file-da4cc8df7f6443c5ae12089eb3226db4]
-
-### Quick Integration Steps:
-1. Download the generated file using the link above.
-2. Upload it directly to the root folder of your GitHub repository.
-3. Replace the placeholder text like `YOUR-USERNAME` and `YOUR-REPO-NAME` inside the file with your actual GitHub username and repo name so that the live audio player link functions correctly.
-
-```
