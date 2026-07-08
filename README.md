@@ -4,7 +4,7 @@ If you would like to download all the audio files at once to your local machine,
 Using Git (Recommended for updates)
 Bash
 # Clone the repository
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+git clone [Clone Here](https://github.com/vasavibible/vasavibible.github.io.git)
 
 # Navigate into the audio directory
 cd YOUR-REPO-NAME/audio
